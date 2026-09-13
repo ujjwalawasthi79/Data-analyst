@@ -1,41 +1,113 @@
-<img width="606" height="337" alt="image" src="https://github.com/user-attachments/assets/37c7819c-64ef-4a06-b140-2844426f0359" />
-Technova 2024 Sales & Profit Analysis
+::: {align="center"}
+👋 Hi, I'm Ujjwal Awasthi
+📊 Data Analytics Trainer | Data Analyst | BBA Graduate
+Turning raw data into meaningful insights --- and helping others learn how to do the same.
+<p>
+<a href="https://github.com/">{=html}<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">{=html}</a>{=html} <a href="https://www.linkedin.com/">{=html}<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">{=html}</a>{=html}
+</p>
+:::
+🚀 About Me
+I am a BBA graduate and certified Data Analytics professional, currently working as a Data Analytics Trainer at Dizital Mantras.
+I enjoy working at the intersection of business, data and technology --- transforming raw datasets into dashboards, insights and actionable business stories.
+As a trainer, I also help learners understand practical data analytics concepts and apply them to real-world business problems.
+My approach: Understand the business problem → Clean the data → Analyze → Visualize → Communicate insights → Recommend action.
+🧠 What I Do
+📌 Area            💡 Focus
+📊 Data Analysis   Finding patterns, trends & business insights 🧹 Data Cleaning   Preparing raw data for reliable analysis 🗄️ SQL             Queries, joins, aggregations & business analysis 📈 Power BI        Interactive dashboards & KPI reporting 📗 Excel           Data analysis, dashboards & reporting 🐍 Python          Data cleaning, exploration & visualization 🎓 Training        Practical Data Analytics learning & mentoring
+🛠️ Tech Stack
+<p align="center">
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">{=html} <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">{=html} <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111111">{=html} <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">{=html} <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">{=html} <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white">{=html}
+</p>
+⭐ Featured Projects
+01 --- 📊 Technova 2024 Sales & Profit Analysis
+Power BI | Data Visualization | Business Intelligence
+A business-focused dashboard analyzing Technova's 2024 performance across revenue, profit, customer reviews, sales channels, regions and salespersons.
+🔎 Key Insights
+💰 10.14M total revenue
+📈 2.81M total profit
+⭐ 4,000 customer reviews
+🛒 Online sales contributed 51.85%
+🏬 Retail stores contributed 48.15%
+🌍 Regional profitability and salesperson performance were analyzed
+📅 Monthly revenue trends were visualized for performance tracking
+🎯 Business Value
+The dashboard converts multiple business metrics into a single interactive view, helping stakeholders identify revenue trends, profitable regions and high-value transactions.
+02 --- 📈 Sales Performance Dashboard
+Power BI | Sales Analytics | KPI Reporting
+An interactive sales dashboard designed to provide a quick and detailed view of business performance across departments, regions, categories and years.
+🔎 Key Insights
+💰 393M total sales
+📊 78.58K average sale value
+👥 5,000 customers
+🏆 Department-wise performance comparison
+🌍 Regional sales distribution
+📅 Year-over-year sales trend
+👤 Top-performing sales representatives
+🎯 Business Value
+The dashboard helps decision-makers quickly identify high-performing departments, regions and sales representatives while monitoring overall sales performance.
+📂 Portfolio Structure
+📁 Data-Analytics-Portfolio
+│
+├── 📊 Power-BI-Projects
+│   ├── Technova-Sales-Profit-Analysis
+│   └── Sales-Performance-Dashboard
+│
+├── 🗄️ SQL-Projects
+│   ├── E-Commerce-Analysis
+│   └── Business-Sales-Analysis
+│
+├── 🐍 Python-Projects
+│   ├── Data-Cleaning
+│   └── Exploratory-Data-Analysis
+│
+└── 📗 Excel-Projects
+    ├── Sales-Dashboard
+    └── Business-Analysis
+📊 My Analytics Workflow
+RAW DATA
+            ↓
+     🧹 DATA CLEANING
+            ↓
+      🔍 EXPLORATION
+            ↓
+       🗄️ SQL / PYTHON
+            ↓
+      📊 VISUALIZATION
+            ↓
+       📈 DASHBOARD
+            ↓
+     💡 BUSINESS INSIGHTS
+            ↓
+    🎯 RECOMMENDATIONS
+🎓 Education & Certification
+🎓 Bachelor of Business Administration --- BBA
+Business foundation with a focus on understanding organizations, management and business decision-making.
+📜 Data Analytics Certification
+Certified in Data Analytics with practical exposure to data analysis, visualization and business intelligence tools.
+👨‍🏫 Currently
+Data Analytics Trainer --- Dizital Mantras
+I currently work as a Data Analytics Trainer, helping learners build practical skills in:
+Excel • SQL • Power BI • Python • Data Visualization • Analytics Concepts
+My focus is on making analytics practical, understandable and business-oriented through hands-on projects and real-world examples.
+💼 What I'm Building
+I'm continuously expanding my portfolio with projects that demonstrate:
+Business problem solving
+Data cleaning & preparation
+SQL-based analysis
+Interactive Power BI dashboards
+Excel-based reporting
+Python-based data analysis
+Clear storytelling with data
+📫 Let's Connect
+::: {align="center"} Interested in Data Analytics, Business Intelligence or collaboration?
+<a href="https://www.linkedin.com/">{=html} <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">{=html} </a>{=html}
+<a href="mailto:your-email@example.com">{=html} <img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white">{=html} </a>{=html} :::
+::: {align="center"}
+📊 Turning Data Into Decisions.
+🎓 Turning Knowledge Into Skills.
+Thanks for visiting my portfolio! ⭐ :::
 
-The dashboard presents a comprehensive overview of Technova’s performance in 2024, highlighting key metrics such as revenue, profit, customer feedback, and sales distribution.
-
-The company generated a total revenue of 10.14M with a total profit of 2.81M, indicating strong overall financial performance. Customer engagement appears positive, with 4,000 customer reviews, suggesting a solid customer base and active feedback loop.
-
-From a sales channel perspective, performance is almost evenly split between Online (51.85%) and Retail Stores (48.15%), showing a balanced omnichannel strategy with slightly stronger digital sales.
-
-The top 5 profitable orders contribute significantly to revenue, each exceeding 10K in value, reflecting the importance of high-value transactions in overall profitability.
-
-Regionally, Europe leads in profit contribution (28.34%), followed by North America (24.35%), while Asia and Australia contribute nearly equal shares (~23–24%). This indicates a well-diversified global market presence without heavy dependence on a single region.
-
-The monthly revenue trend shows fluctuations throughout the year. Revenue peaks in January and April, drops significantly in February, and experiences another decline toward December, suggesting possible seasonality or demand variation that could be optimized.
-
-In terms of individual performance, Maria Lopez and James Carter are the top-performing salespeople, each generating close to 2M in revenue, while others maintain consistent but slightly lower contributions.
-
-Key Insights:
-
-Strong overall profitability with balanced sales channels
-Europe is the most profitable region
-Noticeable revenue fluctuations indicate scope for demand stabilization
-High-performing salespeople significantly impact total revenue
 
 
-
-
-
-
-<img width="1202" height="683" alt="Employee data 5000" src="https://github.com/user-attachments/assets/f2605630-ed17-4c43-a727-9c2040bed64a" />
-Sales Performance Dashboard – Data Analysis Project
-
-This interactive Sales Performance Dashboard provides a comprehensive overview of business performance across multiple dimensions, enabling data-driven decision-making. The dashboard highlights key metrics such as total sales of 393M, an average sale value of 78.58K, and a customer base of 5000, offering a quick snapshot of overall performance.
-
-The analysis dives deeper into departmental performance, where Marketing and Sales emerge as top contributors in both average and total sales, while other departments such as HR, Finance, and IT maintain consistent contributions. A category-wise breakdown identifies top-performing individuals, with leading contributors generating over 100M in sales, showcasing high-performing sales representatives.
-
-Regional analysis reveals a balanced distribution of sales across South, East, West, Central, and North regions, with the South region slightly leading. The year-wise trend indicates a dip in 2023 followed by a recovery in 2024, highlighting potential market fluctuations and business resilience.
-
-This dashboard demonstrates strong skills in data visualization, business intelligence, and storytelling, transforming raw data into meaningful insights that support strategic planning and performance evaluation.
 
 
