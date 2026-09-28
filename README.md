@@ -86,7 +86,7 @@ An interactive dashboard covering business performance across departments, regio
 
 <div align="center">
 
-<img src="assets/sales-performance-dashboard.png" alt="Sales Performance dashboard" width="92%"/>
+<img src="./Advanced dashboard.jpg" alt="Technova 2024 dashboard" width="92%">
 
 </div>
 
