@@ -56,7 +56,7 @@ A business-focused dashboard analyzing Technova's 2024 performance across revenu
 
 <div align="center">
 
-<img src="D:\DASHBOARDS\Advanced dashboard.jpg" alt="Technova 2024 dashboard" width="92%"/>
+<img src="./Technova" alt="Technova 2024 dashboard" width="92%"/>
 
 </div>
 
